@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43402" started-at="2019-10-28T14:26:38Z" finished-at="2019-10-28T14:27:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43402" started-at="2019-10-28T14:26:38Z" finished-at="2019-10-28T14:27:21Z">
+      <class name="com.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="11196" started-at="2019-10-28T19:56:38Z" finished-at="2019-10-28T19:56:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTitle()[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="VerifyTitle" duration-ms="4202" started-at="2019-10-28T19:56:49Z" finished-at="2019-10-28T19:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="1795" started-at="2019-10-28T19:56:53Z" finished-at="2019-10-28T19:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="7626" started-at="2019-10-28T19:56:55Z" finished-at="2019-10-28T19:57:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="loginTest" duration-ms="16587" started-at="2019-10-28T19:57:02Z" finished-at="2019-10-28T19:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="1918" started-at="2019-10-28T19:57:19Z" finished-at="2019-10-28T19:57:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
